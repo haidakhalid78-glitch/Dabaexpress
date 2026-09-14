@@ -1,0 +1,13 @@
+{
+  "name": "dabaexpress",
+  "version": "1.0.0",
+  "description": "L'app qui vous sert tout a tous moment",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
